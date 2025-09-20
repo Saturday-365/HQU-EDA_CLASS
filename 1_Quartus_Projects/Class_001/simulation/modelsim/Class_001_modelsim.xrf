@@ -1,0 +1,10 @@
+vendor_name = ModelSim
+source_file = 1, C:/Git_Program/HQU-EDA_CLASS/Quartus_Projects/Class_001/db/Class_001.v
+source_file = 1, Waveform.vwf
+source_file = 1, C:/Git_Program/HQU-EDA_CLASS/Quartus_Projects/Class_001/db/Class_001.cbx.xml
+design_name = Class_001
+instance = comp, \a~I , a, Class_001, 1
+instance = comp, \b~I , b, Class_001, 1
+instance = comp, \s~I , s, Class_001, 1
+instance = comp, \y~0 , y~0, Class_001, 1
+instance = comp, \y~I , y, Class_001, 1

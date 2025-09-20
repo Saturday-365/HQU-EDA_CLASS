@@ -1,0 +1,14 @@
+module Class_001(a, b, s, y);
+input a,b,s;
+output reg y;
+
+//功能描述
+always@(a,b,s)
+begin
+	if (s==0)
+		y = a;
+	else
+		y = b;
+end
+
+endmodule
